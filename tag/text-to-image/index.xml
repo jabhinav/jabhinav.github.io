@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text-to-Image | Abhinav Jain</title>
+    <link>/tag/text-to-image/</link>
+      <atom:link href="/tag/text-to-image/index.xml" rel="self" type="application/rss+xml" />
+    <description>Text-to-Image</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Text-to-Image</title>
+      <link>/tag/text-to-image/</link>
+    </image>
+    
+    <item>
+      <title>Visual Cues for Text</title>
+      <link>/project/visual-description/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/project/visual-description/</guid>
+      <description>&lt;p&gt;In this project, following multi-stage framework was developed to provide visual aid for a sequence of text based instructions in the form of coherent images associated with each of them - (a) For each instruction, visualisable phrases consisting of head action verbs and noun phrases are mined using standard practices like POS tagging, Dependency parsing and Co-reference resolution. (b) For each visualisable phrase, an API query is made to retrieve a set of images from a dataset crawled from sources such as WikiHow, Flickr, Google etc. Phrases and images together dictate the action being conducted in the instruction. (c) Across instructions sharing common information in the form of latent/non-latent entities, coherency is maintained using a graph based matching method utilising Dijkstra&amp;rsquo;s algorithm. A user study was conducted to validate improvement in understanding of text instructions and resemblance to actual ground truth.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

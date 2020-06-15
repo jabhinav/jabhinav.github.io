@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loss Formulation | Abhinav Jain</title>
+    <link>/tag/loss-formulation/</link>
+      <atom:link href="/tag/loss-formulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loss Formulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Loss Formulation</title>
+      <link>/tag/loss-formulation/</link>
+    </image>
+    
+    <item>
+      <title>Deep Metric Learning</title>
+      <link>/project/deep-metric-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/deep-metric-learning/</guid>
+      <description>&lt;p&gt;Advertising in digital media often requires recognition of critical scenes in videos for smart placement of brand advertisements. These critical scenes raise viewer anxiety and are a part of some parent activity. We distinguish them from the rest of non-critical scenes using an order-preserving fine-grained similarity metric that learns the required representations. The learned metric is tested in two novel tasks: video critical scene recognition and fine-grained video retrieval. To learn the metric, we proposed Pentuplet Loss and recently, an improved and more robust Radial Loss.&lt;/p&gt;
+&lt;p&gt;These losses exploit the concept of `Quadlet Sampling&amp;rsquo; to mine data where each training sample is a tuple of query, positive, intermediate and negative samples. Finally, to ascertain the effectiveness of the loss in learning a deep metric for measuring similarities, we tested its performance against state-of-the-art baselines in the known tasks of fine-grained image retrieval and shot-boundary detection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scanned PDF-to-HTML Conversion</title>
+      <link>/project/scanned-pdf-to-html/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/project/scanned-pdf-to-html/</guid>
+      <description>&lt;p&gt;In practice, scanned PDF documents are converted into consumable representations (HTML/JSON) to drive structured data extraction. However, poor quality document images suffer from low token fidelity when an OCR engine such as Tessearct is used for token extraction.  To remedy this, we leveraged deep learning based solutions for document quality enhancement and delivered the same for public release as part of IBM&amp;rsquo;s Watson API. We formulated a novel `Text Quality Improvement Loss&amp;rsquo; for the standard super-resolution convolutional neural network (SRCNN) to generate high-resolution text images. The proposed framework identifies text regions from images and minimizes additional MSE between such localised regions on top of the standard MSE, enforced by Single Image Super Resolution frameworks. This results in simultaneous optimisation of perceptual quality of the image and the OCR performance.&lt;/p&gt;
+&lt;p&gt;Moreover, we provied (a) hybrid PDF support to extract data from documents containing both scanned and programmatic content, (b) capability to handle skewed documents, (c) multi-lingual support for data extraction from documents with over 50 different languages and (d) extraction service for detecting logos, bar-codes and signatures for downstream document processing such as querying, retrieval etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

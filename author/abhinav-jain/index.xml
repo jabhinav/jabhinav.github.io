@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhinav Jain</title>
+    <link>/author/abhinav-jain/</link>
+      <atom:link href="/author/abhinav-jain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abhinav Jain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/abhinav-jain/avatar_hu3b49f90397e6fd938789dfb140487e9f_2172151_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Abhinav Jain</title>
+      <link>/author/abhinav-jain/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous Optimisation of Image Quality Improvement and Text Content Extraction from Scanned Documents</title>
+      <link>/publication/icdar-conf-paper/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/icdar-conf-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Convolutional Neural Networks with Deep Part Embeddings</title>
+      <link>/publication/icaasp-conf-paper2/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/icaasp-conf-paper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial Loss for Learning Fine-grained Video Similarity Metric</title>
+      <link>/publication/icaasp-conf-paper1/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/icaasp-conf-paper1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pentuplet Loss for Simultaneous Shots and Critical Points Detection in a Video</title>
+      <link>/publication/icpr-conf-paper/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icpr-conf-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Driven Enrichment of Formal Text using Concept Definitions and Applications</title>
+      <link>/publication/ht-conf-paper/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ht-conf-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coherent Visual Description of Textual Instructions</title>
+      <link>/publication/ism-conf-paper/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ism-conf-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

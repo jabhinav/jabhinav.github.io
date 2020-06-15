@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI for Education | Abhinav Jain</title>
+    <link>/tag/ai-for-education/</link>
+      <atom:link href="/tag/ai-for-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI for Education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>AI for Education</title>
+      <link>/tag/ai-for-education/</link>
+    </image>
+    
+    <item>
+      <title>Text Enrichment</title>
+      <link>/project/text-enrichment/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/project/text-enrichment/</guid>
+      <description>&lt;p&gt;Formal texts such as journal articles are composed of complex terminologies intended to be understood by targeted demographic. In absence of domain knowledge, they tend to be more ambiguous for general readers. To avail a complete semantic understanding of such texts for the readers, we proposed an enrichment system that mitigates the problem of searching for required information through heaps of sources. The system augments given text with required concept definitions, applications and concept dependency graphs.&lt;/p&gt;
+&lt;p&gt;Our framework extracts key-concepts (technical terms) based on user discretion via a sequence of filtering stages - Linguistic Filtering, BBC Pruning and StackExchange Pruning. It detects the presence of required information by classifying each associated sentence into definition/application of the key-concept using a CNN-LSTM network. The same framework also runs on a data source such as Wikipedia to return the concept&amp;rsquo;s missing definition and real-life application.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

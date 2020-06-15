@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Few Shot Learning | Abhinav Jain</title>
+    <link>/tag/few-shot-learning/</link>
+      <atom:link href="/tag/few-shot-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Few Shot Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Few Shot Learning</title>
+      <link>/tag/few-shot-learning/</link>
+    </image>
+    
+    <item>
+      <title>Evolving AI</title>
+      <link>/project/evolving-ai/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/evolving-ai/</guid>
+      <description>&lt;p&gt;In this project, we address the problem of re-training a deep neural network for a new class with limited training data (n to n+1 class learning) using a novel concept of Deep part embeddings (DPEs). DPEs are sub-networks of neuron activation extracted from a trained network identifying a visual and distinguishable element of a class. We identify visual elements that intuitively constitute a new class and extract the corresponding DPEs from the network pre-trained for the class sharing the identified visual element.&lt;/p&gt;
+&lt;p&gt;Finally, we assemble them into a new network and re-train the model on limited samples of the new class and a subset of data from `n&amp;rsquo; classes to achieve high accuracy on the new class without significantly affecting the accuracy of n classes. We studied and generated results for DPE integration under two configurations- (i) sequential, when DPEs are sourced from different CNN architectures and (ii) shared; when DPEs are sourced from the same CNN architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

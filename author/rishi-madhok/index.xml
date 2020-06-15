@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rishi Madhok | Abhinav Jain</title>
+    <link>/author/rishi-madhok/</link>
+      <atom:link href="/author/rishi-madhok/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rishi Madhok</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Rishi Madhok</title>
+      <link>/author/rishi-madhok/</link>
+    </image>
+    
+    <item>
+      <title>Content Driven Enrichment of Formal Text using Concept Definitions and Applications</title>
+      <link>/publication/ht-conf-paper/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ht-conf-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
